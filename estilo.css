@@ -1,0 +1,26 @@
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+    display: block;
+    float: left;
+    margin-right: 0.12em;
+    padding: 1em 1.5em;
+    background: #178EAE;
+    box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 25);
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #0C749C;
+    text-transform: uppercase;
+    font-size: 0.90em;
+    color: #FFFFFF;
+}
+
+body{
+    margin: 0em;
+    padding: 0em;
+    background: #1EB0D7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10pt;
+    color: #525252;
+}
