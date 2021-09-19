@@ -1,0 +1,27 @@
+/*Estilo de fondo*/
+body{
+    background: #d3d3d3;
+    font-size: 100%;
+    margin: 0;
+    font-family: tahoma;
+    color: #444;
+}
+
+/*Estilo para la lista*/
+.aside-nav ul{
+    background: #e8e8e8;
+    padding: 0;
+    width: 25%;
+}
+
+/*Estilo para elementos de la lista*/
+.aside-nav li{
+    display: block;
+    padding: 1.25em;
+    border-bottom: 1px solid #d2d2d2;
+}
+
+/*Estilo para posicionar puntero*/
+.aside-nav a:hover{
+    color: #fff;
+}
