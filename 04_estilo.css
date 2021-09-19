@@ -1,0 +1,39 @@
+/* Estilo de fondo */
+body{
+    font-family: 'Trebuchet MS';
+}
+
+/* Estilo para el título del documento */
+p{
+    margin: 8px;
+    text-align: justify;
+}
+
+/* Estilo para toda cada columna del artículo */
+#column01{
+    margin: 10px;
+    float: left; width: 30%;
+    background: #CFC;
+    text-align: center;
+}
+
+#column02{
+    margin: 10px;
+    float: left; width: 30%;
+    background: #09F;
+    text-align: center;
+}
+
+#column03{
+    margin: 10px;
+    float: left; width: 30%;
+    background: #FFC;
+    text-align: center;
+}
+
+/* Estilo para definir ancho y alto de la imagen */
+
+#imagen{
+    width: 200px;
+    height: 200px;
+}
